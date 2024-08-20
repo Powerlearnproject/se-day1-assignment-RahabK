@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering involves the systematic application of engineering principles, methods, and tools to develop and maintain high-quality software systems. It encompasses software product design, development, testing, deployment, and maintenance. It is crucial to the technology industry. Software engineering enables the creation of software applications and systems that drive various aspects of modern life, including communication, commerce, entertainment, and healthcare.
+Software engineering involves the systematic application of engineering principles, methods, and tools to develop and maintain high-quality software systems. It encompasses software product design, development, testing, deployment, and maintenance. Software engineering is crucial to the technology industry. It enables the creation of software applications and systems that drive various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -31,6 +31,7 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 - UI/UX Designer: This role creates user interfaces and designs user experiences for software applications.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 Importance of Integrated Development Environments (IDEs):
 - Efficiency: IDEs speed up coding with features like code completion and error detection.
 - Debugging: IDEs simplify issue resolution with built-in debugging tools.
