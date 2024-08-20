@@ -74,6 +74,7 @@ Different types of testing and their importance include
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering involves creating clear and specific questions or statements to elicit the best responses from AI models. 
 This helps avoid ambiguity and ensures that the AI understands the user's needs
 
